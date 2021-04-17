@@ -6,4 +6,5 @@ asterisco lhe
 permite comentar
 várias linhas
 */
-?>
+
+# Para criar um arquivo php basta digitar a tag '<?php' e para encerrar basta digitar ?>
